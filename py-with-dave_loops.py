@@ -54,4 +54,5 @@ for action in actions:
     for name in names:
         print(name + " " + action + ".")  
 
+# lesson n8
         
