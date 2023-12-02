@@ -104,3 +104,5 @@ print(two)
 print(hey)
 
 print(anothertuple.count(2))
+
+# lesson n6
