@@ -8,3 +8,6 @@ print('')
 
 # Ternary Operator
 print("Right on!") if meaning > 10 else print('Not today!')
+
+
+# lesson n3
